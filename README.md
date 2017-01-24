@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+McleanViewTool::Renderer.copyright 'Jason McLean', 'All rights reserved'
+```
 
 ## Development
 
